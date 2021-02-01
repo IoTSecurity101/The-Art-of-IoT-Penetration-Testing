@@ -1,4 +1,4 @@
-# The-Art-of-IoT-Penetration-Testing ( OPEN BOOKS - STILL WRITING )
+# The-Art-of-IoT-Penetration-Testing 
 
 ## Volume-1
 
