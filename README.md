@@ -1,3 +1,8 @@
+# Declaimer:
+
+  -> The purpose of the books reaching the right content to the learners.
+
+
 # The-Art-of-IoT-Penetration-Testing 
 
 ## Volume-1
